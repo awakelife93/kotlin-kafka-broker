@@ -9,6 +9,7 @@
   - Kafka
   - H2
   - Validation
+  - Jpa
 
 ### Author
 
