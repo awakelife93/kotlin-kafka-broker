@@ -15,7 +15,7 @@ spring:
       "[hibernate.format_sql]": true
       "[hibernate.jdbc.time_zone]": UTC
   datasource:
-    url: jdbc:h2:mem:spring-boot-boilerplate;MODE=PostgreSQL;
+    url: jdbc:h2:mem:kotlin-kafka-broker;MODE=PostgreSQL;
     username: sa
     password:
     driver-class-name: org.h2.Driver
